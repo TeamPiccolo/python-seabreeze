@@ -4,8 +4,8 @@ Priority: optional
 Maintainer: Magnus Hagdorn <magnus.hagdorn@ed.ac.uk>
 Build-Depends: debhelper-compat (= 12), dh-python, python3-setuptools,
  python3-setuptools-scm, python3-all-dev, python3-usb, python3-pytest-runner,
- python3-pkgconfig, libseabreeze-dev, swig, cython3, python3-ipython,
- python3-isort
+ python3-pkgconfig, swig, cython3, python3-ipython, python3-future, 
+ python3-isort, python3-wheel
 Standards-Version: 4.4.1
 Homepage: <insert the upstream URL, if relevant>
 #Vcs-Browser: https://salsa.debian.org/debian/python-seabreeze
